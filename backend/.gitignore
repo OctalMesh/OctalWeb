@@ -21,12 +21,15 @@ build
 builds/
 
 # Logs
+
 *.log
 
 # BlueJ files
+
 *.ctxt
 
 # Package Files
+
 *.war
 *.nar
 *.ear
@@ -36,4 +39,5 @@ builds/
 /*.jar
 
 # Virtual machine crash logs
+
 hs_err_pid*
