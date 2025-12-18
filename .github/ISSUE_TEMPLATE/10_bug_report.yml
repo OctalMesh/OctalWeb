@@ -21,7 +21,7 @@ body:
   validations:
     required: true
 
-- type: textarea
+- type: input
   attributes:
     label: "Environment"
     description: |
@@ -30,8 +30,7 @@ body:
       - Operating system (Windows, macOS, Linux, iOS, Android)
       - Device name/model (e.g., MacBook Pro 16", iPad Air 13", Samsung Galaxy S23)
       - Any other details that might help reproduce the issue
-
-      Example: Chrome 140, Windows 11, Dell XPS 15
+    placeholder: "Example: Chrome 140, Windows 11, Dell XPS 15"
   validations:
     required: true
       
