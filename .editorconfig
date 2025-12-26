@@ -253,7 +253,7 @@ ij_java_wrap_comments = true
 ij_java_wrap_first_method_in_call_chain = false
 ij_java_wrap_long_lines = false
 
-[*.ts,*.tsx,*.js,*.jsx,*.json]
+[*.{ts,tsx,js,jsx,json}]
 indent_size = 2
 
 [*.json]

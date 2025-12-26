@@ -1,3 +1,11 @@
+# Environment / Misc
+
+.env
+*~
+.directory
+*.pem
+
+
 # IDE / Editor
 
 *.iml
@@ -71,11 +79,3 @@ ehthumbs_vista.db
 [Dd]esktop.ini
 $RECYCLE.BIN/
 *.lnk
-
-
-# Environment / Misc
-
-.env
-*~
-.directory
-*.pem
