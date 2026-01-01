@@ -12,3 +12,8 @@
 	path = design
 	url = git@github.com:OctalMesh/OctalWeb-Design.git
 	branch = dev
+
+[submodule "cms"]
+	path = cms
+	url = git@github.com:OctalMesh/OctalWeb-CMS.git
+	branch = dev
