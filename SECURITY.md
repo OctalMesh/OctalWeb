@@ -12,7 +12,8 @@ Security handling is based on **impact and scope**, not version numbers.
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability, **do not open a public issue, discussion, or pull request**.
+If you discover a security vulnerability, **do not open a public issue,
+discussion, or pull request**.
 Instead, report it privately:
 
 - Email: <security@octalmesh.com> *(preferred)*
@@ -20,10 +21,11 @@ Instead, report it privately:
 
 ### Please include as much of the following information as possible:
 
-- Type of issue  
-  *(e.g. authentication bypass, RCE, SQL injection, XSS, CSRF, data exposure, logic flaw)*
+- Type of issue
+  *(e.g. authentication bypass, RCE, SQL injection, XSS, CSRF, data exposure,
+  logic flaw)*
 - Affected submodule(s) or service(s)
-- Location of the issue  
+- Location of the issue
   *(repository, branch, commit, or direct URL if public)*
 - Configuration or environment assumptions
 - Step-by-step instructions to reproduce the issue
@@ -31,7 +33,8 @@ Instead, report it privately:
 - Expected and actual behavior
 - Potential impact and realistic attack scenarios
 
-Incomplete reports are still welcome, but detailed reports allow faster and more accurate triage.
+Incomplete reports are still welcome, but detailed reports allow faster and more
+accurate triage.
 
 ### Security reports are accepted in:
 
@@ -61,4 +64,5 @@ Third-party services and dependencies follow their own security policies.
 
 #
 
-<h6 align="center">Security research helps keep OctalWeb reliable and boring - exactly how security should be</h6>
+<h6 align="center">Security research helps keep OctalWeb reliable and boring -
+exactly how security should be</h6>
