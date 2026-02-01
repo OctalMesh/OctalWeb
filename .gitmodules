@@ -3,9 +3,9 @@
 	url = git@github.com:OctalMesh/OctalWeb-Shop.git
 	branch = dev
 
-[submodule "socials"]
-	path = socials
-	url = git@github.com:OctalMesh/OctalWeb-Socials.git
+[submodule "links"]
+	path = links
+	url = git@github.com:OctalMesh/OctalWeb-Links.git
 	branch = dev
 
 [submodule "design"]
@@ -13,7 +13,7 @@
 	url = git@github.com:OctalMesh/OctalWeb-Design.git
 	branch = dev
 
-[submodule "cms"]
-	path = cms
-	url = git@github.com:OctalMesh/OctalWeb-CMS.git
+[submodule "console"]
+	path = console
+	url = git@github.com:OctalMesh/OctalWeb-Console.git
 	branch = dev
