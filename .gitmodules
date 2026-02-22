@@ -1,19 +1,19 @@
 [submodule "shop"]
-	path = shop
+	path = modules/shop
 	url = git@github.com:OctalMesh/OctalWeb-Shop.git
 	branch = dev
 
 [submodule "links"]
-	path = links
+	path = modules/links
 	url = git@github.com:OctalMesh/OctalWeb-Links.git
 	branch = dev
 
 [submodule "design"]
-	path = design
+	path = modules/design
 	url = git@github.com:OctalMesh/OctalWeb-Design.git
 	branch = dev
 
 [submodule "console"]
-	path = console
+	path = modules/console
 	url = git@github.com:OctalMesh/OctalWeb-Console.git
 	branch = dev
