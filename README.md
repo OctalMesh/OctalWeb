@@ -54,6 +54,8 @@
     ·
     <a rel="noopener noreferrer" href="CONTRIBUTING.md">Contributing</a>
     ·
+    <a rel="noopener noreferrer" href="SECURITY.md">Security Policy</a>
+    ·
     <a rel="noopener noreferrer" href="SUPPORT.md">Support</a>
     ·
     <a rel="noopener noreferrer" href="LICENSE.md">License</a>
